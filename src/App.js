@@ -1,3 +1,4 @@
+import React, { useEffect } from "react";
 import logo from "./logo.svg";
 import card1 from "./images/card.png";
 import card2 from "./images/card2.png";
@@ -7,8 +8,15 @@ import img1 from "./images/image1.png";
 import "./App.css";
 
 function App() {
+
+  function message() {
+    alert('Функционал данного сайта не предусматривает масштабирование под мобильные устройства))\n Создан для учебных целей')
+  }
+  useEffect(() => {
+    message()
+  }, [])
   return (
-    <div style={styles.container}>
+    <div style={styles.container} className="App">
       <div style={styles.header}>
         <div style={styles.leftContainer}>
           <p style={styles.bigText}>WebCrypt</p>
@@ -87,7 +95,6 @@ const styles = {
     width: 1400,
     height: 5000,
     backgroundColor: "#DCDCDC",
-    // display: "flex",
   },
   img: { width: 276, height: 228 },
   header: {
