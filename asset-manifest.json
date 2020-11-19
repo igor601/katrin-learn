@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/katrin-learn/static/css/main.bfe5c144.chunk.css",
-    "main.js": "/katrin-learn/static/js/main.c2aac9a8.chunk.js",
-    "main.js.map": "/katrin-learn/static/js/main.c2aac9a8.chunk.js.map",
+    "main.css": "/katrin-learn/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/katrin-learn/static/js/main.988962c7.chunk.js",
+    "main.js.map": "/katrin-learn/static/js/main.988962c7.chunk.js.map",
     "runtime-main.js": "/katrin-learn/static/js/runtime-main.53663c93.js",
     "runtime-main.js.map": "/katrin-learn/static/js/runtime-main.53663c93.js.map",
-    "static/js/2.3bb243b8.chunk.js": "/katrin-learn/static/js/2.3bb243b8.chunk.js",
-    "static/js/2.3bb243b8.chunk.js.map": "/katrin-learn/static/js/2.3bb243b8.chunk.js.map",
+    "static/js/2.082e0d79.chunk.js": "/katrin-learn/static/js/2.082e0d79.chunk.js",
+    "static/js/2.082e0d79.chunk.js.map": "/katrin-learn/static/js/2.082e0d79.chunk.js.map",
     "static/js/3.f99322e8.chunk.js": "/katrin-learn/static/js/3.f99322e8.chunk.js",
     "static/js/3.f99322e8.chunk.js.map": "/katrin-learn/static/js/3.f99322e8.chunk.js.map",
     "index.html": "/katrin-learn/index.html",
-    "static/css/main.bfe5c144.chunk.css.map": "/katrin-learn/static/css/main.bfe5c144.chunk.css.map",
-    "static/js/2.3bb243b8.chunk.js.LICENSE.txt": "/katrin-learn/static/js/2.3bb243b8.chunk.js.LICENSE.txt",
+    "static/css/main.8c8b27cf.chunk.css.map": "/katrin-learn/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.082e0d79.chunk.js.LICENSE.txt": "/katrin-learn/static/js/2.082e0d79.chunk.js.LICENSE.txt",
     "static/media/card.d9c0c892.png": "/katrin-learn/static/media/card.d9c0c892.png",
     "static/media/card2.bf331a87.png": "/katrin-learn/static/media/card2.bf331a87.png",
     "static/media/card3.15c1c75b.png": "/katrin-learn/static/media/card3.15c1c75b.png",
     "static/media/card4.bec5346b.png": "/katrin-learn/static/media/card4.bec5346b.png",
     "static/media/image1.4c96e9bc.png": "/katrin-learn/static/media/image1.4c96e9bc.png",
+    "static/media/image2.f493fe6e.png": "/katrin-learn/static/media/image2.f493fe6e.png",
+    "static/media/image3.88bf241f.png": "/katrin-learn/static/media/image3.88bf241f.png",
     "static/media/logo.103b5fa1.svg": "/katrin-learn/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.53663c93.js",
-    "static/js/2.3bb243b8.chunk.js",
-    "static/css/main.bfe5c144.chunk.css",
-    "static/js/main.c2aac9a8.chunk.js"
+    "static/js/2.082e0d79.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.988962c7.chunk.js"
   ]
 }
