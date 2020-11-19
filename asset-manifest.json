@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/katrin-learn/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/katrin-learn/static/js/main.988962c7.chunk.js",
-    "main.js.map": "/katrin-learn/static/js/main.988962c7.chunk.js.map",
+    "main.js": "/katrin-learn/static/js/main.cafd551a.chunk.js",
+    "main.js.map": "/katrin-learn/static/js/main.cafd551a.chunk.js.map",
     "runtime-main.js": "/katrin-learn/static/js/runtime-main.53663c93.js",
     "runtime-main.js.map": "/katrin-learn/static/js/runtime-main.53663c93.js.map",
     "static/js/2.082e0d79.chunk.js": "/katrin-learn/static/js/2.082e0d79.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.53663c93.js",
     "static/js/2.082e0d79.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.988962c7.chunk.js"
+    "static/js/main.cafd551a.chunk.js"
   ]
 }
