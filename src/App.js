@@ -7,8 +7,12 @@ import img1 from "./images/image1.png";
 import img2 from "./images/image2.png";
 import img3 from "./images/image3.png";
 import "./App.css";
+import { useEffect } from "react";
 
 function App() {
+  useEffect(() => {
+    alert('Функционал данного сайта не предусматривает масштабирование под мобильные устройства))\n Сиздан для учебных целей')
+  })
   return (
     <div style={styles.container}>
       <div style={styles.header}>
