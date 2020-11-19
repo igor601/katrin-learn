@@ -181,6 +181,7 @@ function App() {
           </div>
         </div>
       </div>
+      <p style={{alignSelf: 'center', textAlign: 'center', paddingVertical: 30, fontWeight: 'bold' }}>разработчик Катрин Лаврова</p>
     </div>
   );
 }
@@ -188,7 +189,7 @@ function App() {
 const styles = {
   container: {
     width: 1400,
-    height: 5000,
+    height: 3600,
     backgroundColor: "#DCDCDC",
     // display: "flex",
   },
