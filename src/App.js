@@ -13,6 +13,9 @@ function App() {
   useEffect(() => {
     alert('Функционал данного сайта не предусматривает масштабирование под мобильные устройства))\n Сиздан для учебных целей')
   })
+  function foo() {
+    
+  }
   return (
     <div style={styles.container}>
       <div style={styles.header}>
